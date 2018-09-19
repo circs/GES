@@ -10,7 +10,7 @@
 * Alain Karma a.karma (at) northeastern.edu
 *
 * The code was used to produce the results published in
-*Title: The Ca2+ transient as a feedback sensor controlling ionic conductance variability and compensation in mouse cardiomyocytes
+*Title: The Ca2+ transient as a feedback sensor controlling cardiomyocyte ionic conductances in mouse populations
 *Authors: Colin Rees, Jun-Hai Yang, Marc Santolini, Aldons J. Lusis, James N. Weiss, Alain Karma
 *Journal: eLife
 *Year: 2018

@@ -2,7 +2,7 @@
 
 This code implements a mouse ventricular myocyte model and searches for combinations of ionic conductances that produce a normal electrophysiological phenotype as described in the following publication:
 
-* The Ca2+ transient as a feedback sensor controlling ionic conductance variability and compensation in mouse cardiomyocytes, Colin Rees, Jun-Hai Yang, Marc Santolini, Aldons J. Lusis, James N. Weiss, Alain Karma, eLife (2018).
+* The Ca2+ transient as a feedback sensor controlling cardiomyocyte ionic conductances in mouse populations, Colin Rees, Jun-Hai Yang, Marc Santolini, Aldons J. Lusis, James N. Weiss, Alain Karma, eLife (2018).
 
 The code to simulate the mouse ventricular myocyte model is based on an earlier rabbit ventricular myocyte model described in:
 
